@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;testGo&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Repository/src/honnef.co" />
+      <root url="file://$USER_HOME$/Repository/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/iowrapper" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/pushmsg" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/statistic" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/rpc" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/errinfo" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/go.intra.xiaojukeji.com" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/dbadapter" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/global" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/main" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/downgrade" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/git.apache.org" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/compute" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/dao" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/DidiPush" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/helper" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/util" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/context" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/detailerrors" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/logic" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/its-thrift" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/config" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/queue" />
+      <root url="file://$USER_HOME$/Repository/src/github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Repository/src/honnef.co" />
+      <root url="file://$USER_HOME$/Repository/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/iowrapper" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/pushmsg" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/statistic" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/rpc" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/errinfo" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/go.intra.xiaojukeji.com" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/dbadapter" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/global" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/main" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/downgrade" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/git.apache.org" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/compute" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/dao" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/DidiPush" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/helper" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/util" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/context" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/detailerrors" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/logic" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/its-thrift" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/config" />
+      <root url="file://$PROJECT_DIR$/../串讲/征信系统/credit/src/queue" />
+      <root url="file://$USER_HOME$/Repository/src/github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
