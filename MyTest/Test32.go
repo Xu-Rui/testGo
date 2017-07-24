@@ -5,12 +5,12 @@ import (
 )
 
 //接口
+type realize func(int, *int)
+
+//实现类
 type virtual interface {
 	Handler(int, *int)
 }
-
-//实现类
-type realize func(int, *int)
 func (f realize) Handler(w int, r *int) {
 	f(w, r)
 }
